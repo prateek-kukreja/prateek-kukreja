@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning Reactjs and Tailwind.
 - 🤔 I'm looking for help with finding a job that matches my skills and interests.
-- 📫 How to reach me: [prateek.wtf](https://www.prateek.wtf)
+- 📫 How to reach me: 🔗 [prateek.wtf](https://www.prateek.wtf)
 - ⚡ Fun fact: I can beat you in chess.
 
